@@ -5,12 +5,10 @@
 # Site
 title: 郑泊诗歌
 subtitle: '原创、独立、小众、纯粹'
-description: '郑泊的个人原创诗歌网站'
-keywords:
+description: '个人原创诗歌网站'
+keywords: '原创、诗歌、郑泊诗歌、现代诗、古典诗词、诗词歌赋、爱情诗歌、古风'
 author: 郑泊
-language:
-  - zh
-  - en
+language: zh-CN
 timezone: 'Asia/Shanghai'
 
 # URL
