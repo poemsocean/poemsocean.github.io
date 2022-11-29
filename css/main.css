@@ -1230,7 +1230,7 @@ pre .javascript .function {
 }
 .links-of-author a::before,
 .links-of-author span.exturl::before {
-  background: #b14ab6;
+  background: #5093ff;
   border-radius: 50%;
   content: ' ';
   display: inline-block;
@@ -1415,7 +1415,7 @@ pre .javascript .function {
 }
 .site-state-item-count {
   display: block;
-  font-size: 1em;
+  font-size: 0.9125em;
   font-weight: 600;
   text-align: center;
 }
@@ -1736,7 +1736,7 @@ pre .javascript .function {
   display: none;
 }
 .content {
-  padding-top: 40px;
+  padding-top: 20px;
 }
 @media (min-width: 992px) {
   .post-body {
@@ -1826,11 +1826,11 @@ pre .javascript .function {
   margin: 0;
 }
 .posts-expand .post-header {
-  font-size: 1em;
+  font-size: 0.9125em;
 }
 .posts-expand .post-title {
   font-size: 1.25em;
-  font-weight: normal;
+  font-weight: bold;
   margin: initial;
   text-align: center;
   overflow-wrap: break-word;
@@ -1875,9 +1875,10 @@ pre .javascript .function {
 .posts-expand .post-meta .post-description {
   font-size: 0.875em;
   margin-top: 2px;
+  visibility: hidden;
 }
 .posts-expand .post-meta time {
-  border-bottom: 1px dashed #999;
+  border-bottom: 0px dashed #999;
   cursor: pointer;
 }
 .post-meta .post-meta-item + .post-meta-item::before {
@@ -1992,8 +1993,8 @@ pre .javascript .function {
   text-align: center;
 }
 .reward-container {
-  margin: 20px auto;
-  padding: 10px 0;
+  margin: 80px auto 0 auto;
+  padding: 0px;
   text-align: center;
   width: 90%;
 }
@@ -2005,8 +2006,9 @@ pre .javascript .function {
   cursor: pointer;
   line-height: 2;
   outline: 0;
-  padding: 2px 15px;
-  vertical-align: text-top;
+  padding: 5px 20px;
+  vertical-align: text-center;
+  font-size: 12px;
 }
 .reward-container button:hover {
   background: #f55;
