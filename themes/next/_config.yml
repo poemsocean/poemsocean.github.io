@@ -120,7 +120,7 @@ menu:
   home: / || home
   archives: /archives/ || book #archive
   tags: /tags/ || tags
-  categories: categories/ || th
+  categories: categories/ || folder-open #th
   about: /about/me || user
   # schedule: /schedule/ || calendar
   #sitemap: /sitemap.xml || sitemap
