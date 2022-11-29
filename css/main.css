@@ -1230,7 +1230,7 @@ pre .javascript .function {
 }
 .links-of-author a::before,
 .links-of-author span.exturl::before {
-  background: #42b8ff;
+  background: #b14ab6;
   border-radius: 50%;
   content: ' ';
   display: inline-block;
@@ -1829,7 +1829,7 @@ pre .javascript .function {
   font-size: 1em;
 }
 .posts-expand .post-title {
-  font-size: 1.5em;
+  font-size: 1.25em;
   font-weight: normal;
   margin: initial;
   text-align: center;
@@ -2000,12 +2000,12 @@ pre .javascript .function {
 .reward-container button {
   background: #ff2a2a;
   border: 0;
-  border-radius: 5px;
+  border-radius: 8px;
   color: #fff;
   cursor: pointer;
   line-height: 2;
   outline: 0;
-  padding: 0 15px;
+  padding: 2px 15px;
   vertical-align: text-top;
 }
 .reward-container button:hover {
