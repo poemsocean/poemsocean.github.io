@@ -118,9 +118,9 @@ darkmode: true
 # External url should start with http:// or https://
 menu:
   home: / || home
-  archives: /archives/ || archive
-  # tags: /tags/ || tags
-  # categories: categories/ || th
+  archives: /archives/ || book #archive
+  tags: /tags/ || tags
+  categories: categories/ || th
   about: /about/me || user
   # schedule: /schedule/ || calendar
   #sitemap: /sitemap.xml || sitemap
@@ -247,8 +247,9 @@ post_meta:
   created_at: true
   updated_at:
     enable: false
-    another_day: true
+    another_day: false
   categories: true
+  description: false
 
 # Post wordcount display settings
 # Dependencies: https://github.com/theme-next/hexo-symbols-count-time
@@ -424,7 +425,7 @@ font:
   # Global font settings used for all elements inside <body>.
   global:
     external: true
-    family: Helvetica #Lato # Zhi Mang Xing
+    family: Noto Serif SC #Noto Serif Simplified Chinese #sans-serif # # Helvetica #Lato # Zhi Mang Xing
     size:
 
   # Font settings for site title (.site-title).
@@ -448,7 +449,7 @@ font:
   # Font settings for <code> and code blocks.
   codes:
     external: true
-    family:
+    family: Roboto Mono
 
 
 # ---------------------------------------------------------------
