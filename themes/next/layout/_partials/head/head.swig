@@ -55,6 +55,8 @@
   {%- set pace_css_uri = theme.vendors.pace_css or next_vendors('pace/pace-theme-' + theme.pace.theme + '.min.css') %}
   {%- set pace_js_uri = theme.vendors.pace or next_vendors('pace/pace.min.js') %}
   <link rel="stylesheet" href="{{ pace_css_uri }}">
+  <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8442505912816880"
+     crossorigin="anonymous"></script>
   <script src="{{ pace_js_uri }}"></script>
 {%- endif %}
 
