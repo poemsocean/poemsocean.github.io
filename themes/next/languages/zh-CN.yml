@@ -7,7 +7,7 @@ title:
   schedule: 日程表
 menu:
   home: 首页
-  archives: 归档
+  archives: 全部
   categories: 分类
   tags: 标签
   about: 关于
@@ -19,12 +19,12 @@ sidebar:
   overview: 站点概览
   toc: 文章目录
 post:
-  posted: 发表于
+  posted: 写于
   edited: 更新于
   created: 创建时间
   modified: 修改时间
   edit: 编辑
-  in: 分类于
+  in: 归类
   read_more: 阅读全文
   untitled: 未命名
   sticky: 置顶
@@ -59,20 +59,20 @@ state:
 search:
   placeholder: 搜索...
 cheers:
-  um: 嗯..
-  ok: 还行
-  nice: 不错
-  good: 很好
-  great: 非常好
-  excellent: 太棒了
-keep_on: 继续努力。
+  um: Hi #嗯..
+  ok: Hi #还行
+  nice: Hi #不错
+  good: Hi #很好
+  great: Hi #非常好
+  excellent: Hi #太棒了
+keep_on: " " #继续努力。
 symbol:
   comma: "，"
   period: "。"
   colon: "："
 reward:
-  donate: 打赏
-  wechatpay: 微信支付
+  donate: 👍 赞赏支持
+  wechatpay: 微信
   alipay: 支付宝
   paypal: 贝宝
   bitcoin: 比特币
