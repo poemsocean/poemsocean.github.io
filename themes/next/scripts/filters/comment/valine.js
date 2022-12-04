@@ -18,6 +18,8 @@ hexo.extend.filter.register('theme_inject', injects => {
 
 // Add post_meta
 hexo.extend.filter.register('theme_inject', injects => {
+  return;
+
   let theme = hexo.theme.config;
   if (!theme.valine.enable || !theme.valine.appid || !theme.valine.appkey) return;
 
