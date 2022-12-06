@@ -14,7 +14,7 @@
   --btn-default-color: #555;
   --btn-default-border-color: #555;
   --btn-default-hover-bg: #222;
-  --btn-default-hover-color: #fff;
+  --btn-default-hover-color: #fc6423;
   --btn-default-hover-border-color: #ff2a2a;
 }
 @media (prefers-color-scheme: dark) {
@@ -1230,7 +1230,7 @@ pre .javascript .function {
 }
 .links-of-author a::before,
 .links-of-author span.exturl::before {
-  background: #c12025;
+  background: #427e95;
   border-radius: 50%;
   content: ' ';
   display: inline-block;
