@@ -24,7 +24,7 @@
     --card-bg-color: #555;
     --text-color: #ccc;
     --link-color: #ccc;
-    --link-hover-color: #eee;
+    --link-hover-color: #0684bd;
     --brand-color: #ddd;
     --brand-hover-color: #ddd;
     --table-row-odd-bg-color: #282828;
@@ -247,7 +247,7 @@ p {
 }
 a,
 span.exturl {
-  border-bottom: 1px solid #999;
+  border-bottom: 1px solid #fc6423;
   color: var(--link-color);
   outline: 0;
   text-decoration: none;
@@ -1230,7 +1230,7 @@ pre .javascript .function {
 }
 .links-of-author a::before,
 .links-of-author span.exturl::before {
-  background: #e375ff;
+  background: #fffa46;
   border-radius: 50%;
   content: ' ';
   display: inline-block;
