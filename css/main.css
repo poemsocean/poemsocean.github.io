@@ -13,9 +13,9 @@
   --btn-default-bg: #fff;
   --btn-default-color: #555;
   --btn-default-border-color: #555;
-  --btn-default-hover-bg: #0684bd;
-  --btn-default-hover-color: #fc6423;
-  --btn-default-hover-border-color: #222;
+  --btn-default-hover-bg: #222;
+  --btn-default-hover-color: #fff;
+  --btn-default-hover-border-color: #ff2a2a;
 }
 @media (prefers-color-scheme: dark) {
   :root {
@@ -1230,7 +1230,7 @@ pre .javascript .function {
 }
 .links-of-author a::before,
 .links-of-author span.exturl::before {
-  background: #ff73be;
+  background: #0537ed;
   border-radius: 50%;
   content: ' ';
   display: inline-block;
