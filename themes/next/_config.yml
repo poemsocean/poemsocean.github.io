@@ -266,7 +266,7 @@ tag_icon: false
 reward_settings:
   # If true, reward will be displayed in every article by default.
   enable: true
-  animation: false
+  animation: true
   comment: #Donate comment here.
 
 reward:
@@ -320,7 +320,7 @@ tagcloud:
   max: 30 # Maxium font size in px
   start: "#ccc" # Start color (hex, rgba, hsla or color keywords)
   end: "#111" # End color (hex, rgba, hsla or color keywords)
-  amount: 200 # Amount of tags, change it if you have more than 200 tags
+  amount: 300 # Amount of tags, change it if you have more than 200 tags
 
 # Google Calendar
 # Share your recent schedule to others via calendar page.
@@ -665,7 +665,7 @@ rating:
 
 # AddThis Share. See: https://www.addthis.com
 # Go to https://www.addthis.com/dashboard to customize your tools.
-add_this_id:
+add_this_id: ra-638ea69b6db2b8ff
 
 
 # ---------------------------------------------------------------
@@ -747,7 +747,7 @@ local_search:
   enable: false
   # If auto, trigger search by changing input.
   # If manual, trigger search by pressing enter key or search button.
-  trigger: auto
+  trigger: manual
   # Show top n results per article, show all results by setting to -1
   top_n_per_article: 1
   # Unescape html strings to the readable one.
