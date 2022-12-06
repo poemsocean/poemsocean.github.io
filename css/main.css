@@ -353,11 +353,6 @@ td {
   transition-duration: 0.2s;
   transition-timing-function: ease-in-out;
 }
-.btn:hover {
-  background: var(--btn-default-hover-bg);
-  border-color: var(--btn-default-hover-border-color);
-  color: var(--btn-default-hover-color);
-}
 .btn + .btn {
   margin: 0 0 8px 8px;
 }
@@ -1230,7 +1225,7 @@ pre .javascript .function {
 }
 .links-of-author a::before,
 .links-of-author span.exturl::before {
-  background: #ed88a2;
+  background: #ffbaff;
   border-radius: 50%;
   content: ' ';
   display: inline-block;
