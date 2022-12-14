@@ -12,9 +12,9 @@ title: 关于我
 * QQ号：1870087587
 
 #### 政策协议
-* [《隐私政策》](https://zhengboshige.com/0999/01/01/政策协议/隐私政策/)
-* [《用户服务协议》](https://zhengboshige.com/0999/01/01/政策协议/用户服务协议/)
-* [《免责申明》](https://zhengboshige.com/0999/01/01/政策协议/免责声明/)
+* [《隐私政策》](https://zhengboshige.com/0998/12/31/政策协议/隐私政策/)
+* [《用户服务协议》](https://zhengboshige.com/0998/12/31/政策协议/用户服务协议/)
+* [《免责申明》](https://zhengboshige.com/0998/12/31/政策协议/免责声明/)
 
 #### 赞赏支持
 
