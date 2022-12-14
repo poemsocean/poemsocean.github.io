@@ -122,6 +122,7 @@ menu:
   tags: /tags/ || tags
   categories: categories/ || folder-open #th
   about: /about/me || user
+  policy: /policy/ || file-text
   # schedule: /schedule/ || calendar
   #sitemap: /sitemap.xml || sitemap
   #commonweal: /404/ || heartbeat
